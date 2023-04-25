@@ -66,7 +66,7 @@
 ### ОТВЕТ:
 
 ![Скриншот-4](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_3.1.1.png)
-[[Скриншот-5](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_3.1.2.png)
+![Скриншот-5](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_3.1.2.png)
 ![Скриншот-6](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_3.2.png)
 
 
