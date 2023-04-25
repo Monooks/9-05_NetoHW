@@ -1,5 +1,5 @@
 # 9-05_NetoHW
-# Домашнее задание к занятию 9.04 "`Prometheus. Часть 2`" - `Емельянов Михаил`
+# Домашнее задание к занятию 9.05 "`Prometheus. Часть 2`" - `Емельянов Михаил`
 
 В практике есть 3 основных и 1 дополнительное (со звездочкой) задания. Основные задания нужно выполнять обязательно, со звездочкой - по желанию и его решение никак не повлияет на получение вами зачета по этому домашнему заданию, при этом вы сможете глубже и/или шире разобраться в материале. 
 
@@ -50,7 +50,8 @@
 
 ### ОТВЕТ:
 
-![Скриншот-2](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_2.png)
+![Скриншот-2](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_2.1.png)
+![Скриншот-3](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_2.2.png)
 
 
 ---
@@ -64,7 +65,9 @@
 
 ### ОТВЕТ:
 
-![Скриншот-3](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_3.png)
+![Скриншот-4](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_3.1.1.png)
+[[Скриншот-5](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_3.1.2.png)
+![Скриншот-6](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_3.2.png)
 
 
 ---
@@ -78,7 +81,7 @@
 
 ### ОТВЕТ:
 
-![Скриншот-4](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_4.png)
+![Скриншот-7](https://github.com/Monooks/9-05_NetoHW/blob/main/img/9.05_4.png)
 
 
 ...
